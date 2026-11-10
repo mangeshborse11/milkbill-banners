@@ -1,6 +1,13 @@
 {
-  "mode": "add",
+  "mode": "replace",
   "banners": [
+    {
+      "id": "milkbill-main",
+      "image": "milkbill-main.jpg",
+      "lang": "all",
+      "show": "all",
+      "link": "premium"
+    },
     {
       "id": "upi-one-tap",
       "image": "image-1794336395689.jpg",
@@ -9,10 +16,24 @@
       "link": "premium"
     },
     {
-      "id": "milkbill-main",
-      "image": "milkbill-main.jpg",
+      "id": "cow-track",
+      "image": "cow-track.jpg",
       "lang": "all",
       "show": "all",
+      "link": "premium"
+    },
+    {
+      "id": "real-profit",
+      "image": "real-profit.jpg",
+      "lang": "all",
+      "show": "all",
+      "link": "premium"
+    },
+    {
+      "id": "dairy-products",
+      "image": "dairy-products.jpg",
+      "lang": "all",
+      "show": "free",
       "link": "premium"
     }
   ]
