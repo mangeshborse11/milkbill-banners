@@ -1,0 +1,21 @@
+{
+  "mode": "add",
+  "banners": [
+    {
+      "id": "premium-offer-hindi",
+      "image": "sample-hi.png",
+      "lang": ["hi", "hn"],
+      "show": "free",
+      "start": "2026-11-01",
+      "end": "2026-12-31",
+      "link": "premium"
+    },
+    {
+      "id": "premium-offer-english",
+      "image": "sample-en.png",
+      "lang": ["en", "mr", "gu", "pa", "bn", "ta", "te", "kn", "ml", "or"],
+      "show": "free",
+      "link": "premium"
+    }
+  ]
+}
