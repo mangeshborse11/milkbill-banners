@@ -2,6 +2,13 @@
   "mode": "add",
   "banners": [
     {
+      "id": "upi-one-tap",
+      "image": "upi-one-tap.jpg",
+      "lang": "all",
+      "show": "free",
+      "link": "premium"
+    },
+    {
       "id": "milkbill-main",
       "image": "milkbill-main.jpg",
       "lang": "all",
