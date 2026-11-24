@@ -1,0 +1,12 @@
+{
+  "latest_version": "1.0.4",
+  "minimum_supported_version": "1.0.0",
+  "force_update": false,
+  "update_title": "Update Required",
+  "update_message": "A new version of Milk Bill is available. Please update to continue.",
+  "play_store_url": "https://play.google.com/store/apps/details?id=com.rbtechapps.milkbill",
+  "apk_url": "",
+  "maintenance_mode": false,
+  "maintenance_title": "Under maintenance",
+  "maintenance_message": "Milk Bill is being improved. Please try again in a little while."
+}
